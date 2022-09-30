@@ -1,4 +1,4 @@
 venv
 .ipynb*
 .env
-error.log
+*.log
